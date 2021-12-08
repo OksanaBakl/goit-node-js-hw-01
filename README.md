@@ -7,6 +7,7 @@ node index.js --action list
 # Получаем контакт по id
 
 node index.js --action get --id 5
+
 <img src="./joxiScreen/2.jpg"  alt="action get">
 
 # Добавялем контакт
